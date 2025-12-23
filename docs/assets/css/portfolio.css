@@ -180,12 +180,11 @@ header, .menu, footer {
     padding: 15px;
 }
 
-.btn-contact {
+.btn-contact, .btn-github {
     width: 200px;
 }
 
 .btn-github {
-    width: 250px;
     padding: 4%;
 }
 
