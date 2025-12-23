@@ -710,10 +710,6 @@ label, input, .txt-message, .btn-envoyer {
 /* portfolio - version mobile large */
 @media (max-width: 425px) {
 
-    .profession {
-        margin-top: 10%;
-    }
-
     .fa-linkedin, .fa-github {
         margin-top: 10%;
     }
@@ -729,8 +725,7 @@ label, input, .txt-message, .btn-envoyer {
 
 
     .btn-scroll-bas {
-        top: 1vh;
-        left: 8vh;
+        left: 11vh;
     }
 
     .img-btn-scroll-bas {
