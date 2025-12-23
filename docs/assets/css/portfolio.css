@@ -966,7 +966,7 @@ label, input, .txt-message, .btn-envoyer {
     }
 
     .btn-github {
-        padding: 3%;
+        padding: 4%;
         font-size: 1rem;
         margin: 5%;
         width: 250px;
@@ -1093,7 +1093,6 @@ label, input, .txt-message, .btn-envoyer {
 
     .btn-scroll-bas {
         top: 0;
-        left: 5rem;
     }
 
     .img-btn-scroll-bas {
