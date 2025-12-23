@@ -135,8 +135,11 @@ header, .menu, footer {
     display: inline-block;
 }
 
-.curseur1, .curseur2 {
+.curseur-1 {
     margin-top: 3%;
+}
+
+.curseur1, .curseur2 {
     width: 3px;
     height: 60px;
     background-color: #ecf3f5;
@@ -144,6 +147,7 @@ header, .menu, footer {
 }
 
 .curseur2 {
+    margin-top: 5px;
     height: 40px;
 }
 
@@ -323,8 +327,8 @@ a {
 .btn-scroll-bas {
     position: absolute;
     background-position: center;
-    top: 0;
-    left: 13vh;
+    top: 5vh;
+    left: 20vh;
     right: 20vh;
 }
 
