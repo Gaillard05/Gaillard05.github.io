@@ -828,7 +828,6 @@ label, input, .txt-message, .btn-envoyer {
 
     .btn-scroll-bas {
         top: 10vh;
-        margin-left: 6%;
     }
 
     svg.img-btn-scroll-bas {
