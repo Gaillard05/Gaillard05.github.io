@@ -162,6 +162,10 @@ header, .menu, footer {
     margin-bottom: 5%;
 }
 
+.btn-github {
+    margin-bottom: 5%;
+}
+
 .btn-contact, .btn-cv, .btn-github {
     padding: 15px;
     border-radius: 4px;
