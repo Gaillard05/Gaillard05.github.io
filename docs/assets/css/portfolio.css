@@ -966,9 +966,10 @@ label, input, .txt-message, .btn-envoyer {
     }
 
     .btn-github {
-        padding: 5%;
+        padding: 3%;
         font-size: 1rem;
         margin: 5%;
+        width: 250px;
     }
 
     .fa-github.icone_btn_github {
