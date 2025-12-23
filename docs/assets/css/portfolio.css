@@ -135,11 +135,8 @@ header, .menu, footer {
     display: inline-block;
 }
 
-.curseur-1 {
-    margin-top: 3%;
-}
-
 .curseur1, .curseur2 {
+    margin-top: 3%;
     width: 3px;
     height: 60px;
     background-color: #ecf3f5;
@@ -147,7 +144,6 @@ header, .menu, footer {
 }
 
 .curseur2 {
-    margin-top: 5px;
     height: 40px;
 }
 
