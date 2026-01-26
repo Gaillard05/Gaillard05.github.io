@@ -431,7 +431,7 @@ line, polyline {
     width: 100%;
 }
 
-.card-gusto-coffee, .card-effreiFlix, .card-streamlit-LLM {
+.card-gusto-coffee, .card-effreiFlix, .card-streamlit {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -442,7 +442,7 @@ line, polyline {
     margin-bottom: 5%;
 }
 
-.photo-gusto-coffee, .photo-effreiFlix, .photo-streamlit-LLM{
+.photo-gusto-coffee, .photo-effreiFlix, .photo-streamlit{
     width: 100%;
 }
 
@@ -450,7 +450,7 @@ line, polyline {
     margin: 5%;
 }
 
-.para-gusto-coffee, .para-effreiFlix, .para-streamlit-LLM {
+.para-gusto-coffee, .para-effreiFlix, .para-streamlit {
     margin: 5%;
 }
 
@@ -768,7 +768,7 @@ label, input, .txt-message, .btn-envoyer {
         width: 50%;
     }
 
-    .card-gusto-coffee, .card-effreiFlix, .card-streamlit-LLM, .form, .contenu-mailto,  .contenu-cv{
+    .card-gusto-coffee, .card-effreiFlix, .card-streamlit, .form, .contenu-mailto,  .contenu-cv{
         width: 400px;
     }
 
@@ -873,7 +873,7 @@ label, input, .txt-message, .btn-envoyer {
 
     /* Projets */
 
-    .card-gusto-coffee, .card-effreiFlix, .card-streamlit-LLM {
+    .card-gusto-coffee, .card-effreiFlix, .card-streamlit {
         width: 400px;
     }
 
@@ -1010,7 +1010,7 @@ label, input, .txt-message, .btn-envoyer {
         width: 35%;
     }
 
-    .card-gusto-coffee, .card-effreiFlix, .card-streamlit-LLM, .form, .contenu-mailto,  .contenu-cv{
+    .card-gusto-coffee, .card-effreiFlix, .card-streamlit, .form, .contenu-mailto,  .contenu-cv{
         width: 400px;
     }
 
