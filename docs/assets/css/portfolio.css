@@ -644,6 +644,11 @@ label, input, .txt-message, .btn-envoyer {
     font-size: 22px;
 }
 
+.footer-mentions-legales {
+    display: flex;
+    flex-direction: column;
+}
+
 /* projet - version mobile */
 
 .projet {
