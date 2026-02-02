@@ -642,12 +642,7 @@ label, input, .txt-message, .btn-envoyer {
 
 .conteneur-rs-ml {
     display: flex;
-    justify-content: space-around;
     margin: 2%;
-}
-
-.titre-contenu-reseaux {
-    margin-bottom: 5%;
 }
 
 .footer-reseaux-sociaux {
@@ -655,11 +650,18 @@ label, input, .txt-message, .btn-envoyer {
     flex-direction: column;
 }
 
+.footer-reseaux-sociaux, .footert-mentions-legales {
+   margin: 5px;
+}
+
+.titre-reseaux, .titre-pol-conf {
+    margin-bottom: 5px;
+}
+
 .contenu-ico-footer {
     display: flex;
     flex-direction: row;
 }
-
 
 .icone-linkedin, .icone-github, .fa-file-lines {
     font-size: 22px;
