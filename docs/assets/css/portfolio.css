@@ -147,17 +147,17 @@ header, .menu, footer {
     height: 40px;
 }
 
-.a-propos, .projets {
+.a-propos, .projets, .mentions-legales {
     padding: 4rem 0 0;
 }
 
-.a-propos, .technologies, .projets, .contact, .projet{
+.a-propos, .technologies, .projets, .contact, .projet, .mentions-legales{
     width: 100%;
     background-color: #14191e;
     margin-bottom: 5%;
 }
 
-.titre-a-propos, .titre-projet {
+.titre-a-propos, .titre-projet, .titre-mentions-legales {
     margin-top: 10%;
     margin-bottom: 5%;
 }
@@ -711,6 +711,22 @@ label, input, .txt-message, .btn-envoyer {
         display: none;
 }
 
+/* mentions légales - version mobile */
+
+.titre-mentions-legales, 
+.titre-editeur, 
+.titre-mention-relative, 
+.titre-mediation, 
+.titre-objet-site, 
+.titre-directeur,
+.titre-hebergeur,
+.titre-prop-intel,
+.titre-respon,
+.titre-don-perso {
+    text-align: left;
+    font-weight: bold;
+    margin: 2%;
+}
 
 /* portfolio - version mobile large */
 @media (max-width: 425px) {
