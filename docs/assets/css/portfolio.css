@@ -625,7 +625,7 @@ label, input, .txt-message, .btn-envoyer {
     text-align: center;
 }
 
-.conteneur-reseaux-sociaux {
+.conteneur-rs-ml {
     display: flex;
     flex-direction: column;
     margin: 2%;
@@ -640,7 +640,7 @@ label, input, .txt-message, .btn-envoyer {
     flex-direction: row;
 }
 
-.icone-linkedin, .icone_github {
+.icone-linkedin, .icone-github, .fa-file-lines {
     font-size: 22px;
 }
 
@@ -767,7 +767,7 @@ label, input, .txt-message, .btn-envoyer {
 /* portfolio - version mobile large */
 @media (max-width: 425px) {
 
-    .fa-linkedin, .fa-github {
+    .fa-linkedin, .fa-github, .fa-file-lines {
         margin-top: 10%;
     }
 
@@ -994,13 +994,13 @@ label, input, .txt-message, .btn-envoyer {
     }
 
     /* footer */
-    .titre-reseaux
+    .titre-reseaux, .titre-pol-conf
     {
         font-size: 1.2rem;
         text-align: center;
     }
 
-    .icone-linkedin, .icone_github {
+    .icone-linkedin, .icone-github, .fa-file-lines {
         font-size: 2rem;
     }
 
@@ -1274,7 +1274,7 @@ footer {
 
 /* icones footer */
 
-    .icone-linkedin, .icone-github {
+    .icone-linkedin, .icone-github, .fa-file-lines {
         width: 30px;
     }
 
