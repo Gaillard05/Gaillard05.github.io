@@ -58,12 +58,28 @@ p, strong {
 .fa-css3-alt, 
 .fa-symfony,
 .icones,
+.fa-file-lines,
+.fa-react,
+.fa-bootstrap,
+.fa-wordpress
+{
+     color: #a3cbd7;
+}
+
+.fa-linkedin,
+.fa-github, 
+.fa-php, 
+.fa-js, 
+.fa-python, 
+.fa-html5, 
+.fa-css3-alt, 
+.fa-symfony,
+.icones,
 .fa-react,
 .fa-bootstrap,
 .fa-wordpress
 {
     margin: 0 auto;
-    color: #a3cbd7;
     font-size: xx-large;
 }
 
@@ -82,7 +98,6 @@ p, strong {
 .fa-triangle-exclamation,
 .fa-circle-check
 {
-    color: #a3cbd7;
     font-size: xx-large;
 }
 
@@ -627,7 +642,7 @@ label, input, .txt-message, .btn-envoyer {
 
 .conteneur-rs-ml {
     display: flex;
-    flex-direction: column;
+    justify-content: space-around;
     margin: 2%;
 }
 
@@ -637,11 +652,18 @@ label, input, .txt-message, .btn-envoyer {
 
 .footer-reseaux-sociaux {
     display: flex;
+    flex-direction: column;
+}
+
+.contenu-ico-footer {
+    display: flex;
     flex-direction: row;
 }
 
+
 .icone-linkedin, .icone-github, .fa-file-lines {
     font-size: 22px;
+    margin-top: 2%;
 }
 
 .footer-mentions-legales {
