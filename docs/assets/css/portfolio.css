@@ -195,12 +195,13 @@ header, .menu, footer {
     padding: 15px;
 }
 
-.btn-contact, .btn-github {
+.btn-github {
+    height: 60px;
     width: 200px;
 }
 
-.btn-github {
-    padding: 4%;
+.btn-contact {
+    width: 200px;
 }
 
 .fa-circle-plus, .fa-github.icone_btn_github {
@@ -642,6 +643,7 @@ label, input, .txt-message, .btn-envoyer {
 
 .conteneur-rs-ml {
     display: flex;
+    flex-direction: column;
     margin: 2%;
 }
 
@@ -661,6 +663,7 @@ label, input, .txt-message, .btn-envoyer {
 .contenu-ico-footer {
     display: flex;
     flex-direction: row;
+    align-items: center;
 }
 
 .icone-linkedin, .icone-github, .fa-file-lines {
@@ -1049,7 +1052,7 @@ label, input, .txt-message, .btn-envoyer {
     }
 
     .btn-github {
-        padding: 4%;
+        padding: 10px;
         font-size: 1rem;
         margin: 5%;
     }
