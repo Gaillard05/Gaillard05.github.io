@@ -713,6 +713,19 @@ label, input, .txt-message, .btn-envoyer {
 
 /* mentions légales - version mobile */
 
+.contenu-mention-relative
+.contenu-editeur,
+.contenu-mention-relative,
+.contenu-objet-site,
+.contenu-directeur,
+.contenu-hebergeur,
+.contenu-prop-intel,
+.contenu-respon,
+.contenu-don-perso
+{
+    margin-bottom: 2%;
+}
+
 .titre-mentions-legales, 
 .titre-editeur, 
 .titre-mention-relative, 
@@ -745,6 +758,7 @@ label, input, .txt-message, .btn-envoyer {
 .contenu-directeur>p,
 .contenu-hebergeur>p,
 .contenu-prop-intel>p,
+.contenu-respon>p,
 .contenu-don-perso>p
 {
     margin: 2%;
