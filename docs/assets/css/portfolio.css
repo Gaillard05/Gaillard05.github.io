@@ -1028,6 +1028,11 @@ label, input, .txt-message, .btn-envoyer {
         width: 54px;
     }
 
+    /* mentions légales */
+    .mentions-legales {
+        padding: 8rem 0 0;
+    }
+
 }
 
 
